@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81044753467",
+    "firebase_url": "https://pawnet-4253.firebaseio.com",
+    "project_id": "pawnet-4253",
+    "storage_bucket": "pawnet-4253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81044753467:android:4e571c577443138c",
+        "android_client_info": {
+          "package_name": "pawnet.com.pawnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81044753467-d2o7v7t5b4r2njabhb7clr9m8es0snqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9N1bNBkFZnXayX3eOFz3CwTxA3VfT0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81044753467-d2o7v7t5b4r2njabhb7clr9m8es0snqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
